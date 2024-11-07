@@ -10,7 +10,7 @@ function HomePage() {
       <Navbar />
       <HeroSection />
       <ArticleSection />
-      <Footer />
+      <Footer/>
     </div>
   );
 }
