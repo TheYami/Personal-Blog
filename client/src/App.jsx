@@ -1,7 +1,7 @@
 import './App.css'
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import HomePage from './components/HomePage'
+import HomePage from './components/Homepage'
 import ViewPostPage from './components/ViewPostPage'
 import NotFoundPage from './components/NotFoundPage'
 import SignUp from './components/SignUp'
